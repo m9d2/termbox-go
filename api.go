@@ -10,8 +10,6 @@ import (
 	"runtime"
 	"syscall"
 	"time"
-
-	"github.com/mattn/go-runewidth"
 )
 
 // public API

@@ -1,8 +1,5 @@
 package main
 
-import "github.com/mattn/go-runewidth"
-import "github.com/m9d2/termbox-go"
-
 const chars = "nnnnnnnnnbbbbbbbbbuuuuuuuuuBBBBBBBBB"
 
 var output_mode = termbox.OutputNormal

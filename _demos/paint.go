@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/m9d2/termbox-go"
+	"github/m9d2/termbox-go"
 )
 
 var curCol = 0

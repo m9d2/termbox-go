@@ -4,9 +4,6 @@ import "os"
 import "time"
 import "fmt"
 
-import "github.com/m9d2/termbox-go"
-import "github.com/mattn/go-runewidth"
-
 func main() {
 	err := termbox.Init()
 

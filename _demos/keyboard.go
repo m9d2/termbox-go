@@ -2,9 +2,6 @@ package main
 
 import (
 	"fmt"
-
-	"github.com/m9d2/termbox-go"
-	"github.com/mattn/go-runewidth"
 )
 
 type key struct {

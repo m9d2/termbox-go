@@ -1,6 +1,6 @@
 package main
 
-import "github.com/m9d2/termbox-go"
+import "github/m9d2/termbox-go"
 
 import "fmt"
 import "time"
