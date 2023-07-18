@@ -3,7 +3,7 @@ package main
 import (
 	_ "unicode/utf8"
 
-	_ "github/m9d2/go-runewidth"
+	_ "github.com/m9d2/go-runewidth"
 
 	"fmt"
 )
