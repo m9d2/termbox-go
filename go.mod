@@ -1,10 +1,7 @@
-module github.com/nsf/termbox-go
+module github.com/m9d2/termbox-go
 
-go 1.15
+go 1.20
 
-require (
-	github.com/mattn/go-runewidth v0.0.12
-	github.com/rivo/uniseg v0.2.0 // indirect
-)
+require github.com/mattn/go-runewidth v0.0.14
 
-retract v1.1.0 // panics on BSD
+require github.com/rivo/uniseg v0.2.0 // indirect
