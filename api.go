@@ -10,6 +10,7 @@ import (
 	"runtime"
 	"syscall"
 	"time"
+	"github.com/m9d2/go-runewidth"
 )
 
 // public API
