@@ -2,6 +2,7 @@ package termbox
 
 import (
 	"syscall"
+	"github.com/m9d2/go-runewidth"
 )
 
 // public API
