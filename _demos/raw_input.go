@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/nsf/termbox-go"
+	"github.com/m9d2/termbox-go"
 	"strings"
 )
 

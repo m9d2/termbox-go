@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
+	"github.com/m9d2/termbox-go"
 	"github.com/mattn/go-runewidth"
-	"github.com/nsf/termbox-go"
 )
 
 // This example should demonstrate the functionality of full rgb-support,

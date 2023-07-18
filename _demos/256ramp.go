@@ -3,8 +3,8 @@ package main
 import (
 	_ "unicode/utf8"
 
+	"github.com/m9d2/termbox-go"
 	_ "github.com/mattn/go-runewidth"
-	"github.com/nsf/termbox-go"
 
 	"fmt"
 )
